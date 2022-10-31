@@ -1,0 +1,24 @@
+{
+  "name": "ts-heracles",
+  "version": "1.0.0",
+  "description": "Typescript project to test things",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karolinahamerszmidt/ts-heracles.git"
+  },
+  "author": "Karolina Hamerszmidt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karolinahamerszmidt/ts-heracles/issues"
+  },
+  "homepage": "https://github.com/karolinahamerszmidt/ts-heracles#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
